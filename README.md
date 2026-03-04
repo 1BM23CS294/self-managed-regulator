@@ -44,7 +44,7 @@ Run: npm run dev
 
 After running the command, a link like this will appear:
 
-http://localhost:9002
+http://localhost:3000/
 
 Copy the link and open it in your browser.
 
